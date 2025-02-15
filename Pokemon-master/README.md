@@ -1,3 +1,1 @@
-Add comparison here
-
-blah blah blah
+BSIT_32M3_PRELIM_A3_PokemonAppComparison
